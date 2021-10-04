@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = arthur.de.bailliencourt@gmail.com
+	name = arthur de bailliencourt
